@@ -29,7 +29,7 @@ Linux
 docker run -it --rm --name clojure -v %cd%:/work -w /work -p 3003:3003 clojure /bin/bash
 ```
 
-Em seguda iniciar com o comando
+Em seguida iniciar com o comando
 ```PowerShell
 lein run
 ```
