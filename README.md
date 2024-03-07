@@ -29,7 +29,7 @@ Linux
 docker run -it --rm --name clojure -v %cd%:/work -w /work -p 3003:3003 clojure /bin/bash
 ```
 
-To run the API
+Em seguda iniciar com o comando
 ```PowerShell
 lein run
 ```
@@ -37,6 +37,6 @@ lein run
 Acessar no navegador
 http://localhost:3003/teste
 
-## Reference
+## Referência
 
 - https://github.com/ring-clojure/ring/wiki/Concepts
